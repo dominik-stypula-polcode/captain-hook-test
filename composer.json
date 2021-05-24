@@ -1,0 +1,18 @@
+{
+    "name": "dominik-stypula-polcode/captain-hook-test",
+    "description": "Nothing important",
+    "type": "project",
+    "require": {
+        "captainhook/plugin-composer": "^5.3"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Stypuła",
+            "email": "dominik.stypula@polcode.net"
+        }
+    ]
+}
